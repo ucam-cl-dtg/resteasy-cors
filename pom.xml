@@ -3,7 +3,7 @@
 	<groupId>uk.ac.cam.cl.dtg.web</groupId>
 	<artifactId>resteasy-cors</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>resteasy-cors</name>
 
 	<properties>
@@ -13,7 +13,7 @@
 
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com/ucam-cl-dtg/resteasy-cors.git</developerConnection>
-	  <tag>resteasy-cors-1.0.0</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
